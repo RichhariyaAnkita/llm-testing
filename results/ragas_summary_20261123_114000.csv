@@ -1,0 +1,2 @@
+category,count,pass_rate,avg_relevance,avg_faithfulness,avg_precision
+Factual Clinical Questions,10,0.0,0.37696999999999997,0.40065999999999996,0.49341
